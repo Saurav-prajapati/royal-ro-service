@@ -2205,3 +2205,11 @@ header a.logo img {
 #loom-companion-mv3{
     display: none;
 }
+
+.cta-sec{
+background-image: url('../images/cta-bg.png');
+background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
